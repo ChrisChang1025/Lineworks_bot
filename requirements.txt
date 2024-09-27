@@ -1,0 +1,15 @@
+gunicorn
+gevent
+flask
+pygsheets
+gspread
+pyopenssl
+flask_apscheduler
+APScheduler
+sqlalchemy
+pandas
+pyjwt
+flask_cors
+pytz
+lxml
+Authlib
